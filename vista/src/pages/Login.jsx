@@ -48,10 +48,6 @@ function Login() {
     }
   };
 
-  const handleBypass = () => {
-    navigate("/dashboard");
-  };
-
   return (
     <div
       style={{
@@ -186,39 +182,6 @@ function Login() {
               → INGRESAR AL SISTEMA
             </button>
           </form>
-
-          <div style={{ display: "flex", alignItems: "center", margin: "20px 0", color: "#e5e7eb" }}>
-            <div style={{ flex: 1, height: "1px", background: "#e5e7eb" }}></div>
-            <span style={{ padding: "0 10px", fontSize: "10px", color: "#9ca3af", fontWeight: "600" }}>ENTORNO LOCAL</span>
-            <div style={{ flex: 1, height: "1px", background: "#e5e7eb" }}></div>
-          </div>
-
-          <button
-            type="button"
-            onClick={handleBypass}
-            style={{
-              width: "100%",
-              padding: "10px",
-              background: "transparent",
-              border: "1px dashed #d1d5db",
-              borderRadius: "6px",
-              color: "#4b5563",
-              fontWeight: "600",
-              fontSize: "13px",
-              cursor: "pointer",
-              transition: "all 0.2s ease",
-            }}
-            onMouseEnter={(e) => {
-              e.target.style.background = "#f9fafb";
-              e.target.style.borderColor = "#9ca3af";
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.background = "transparent";
-              e.target.style.borderColor = "#d1d5db";
-            }}
-          >
-            Acceso Rápido (Modo Demo)
-          </button>
 
           <div style={{ marginTop: "24px", textAlign: "center", color: "#9ca3af", fontSize: "11px", letterSpacing: "0.3px" }}>
             Acceso restringido. Solo personal autorizado.

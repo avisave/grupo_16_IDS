@@ -1,3 +1,5 @@
 node_modules/
 dist/
 salida.txt
+postgres_data/
+docx_content.txt
