@@ -1,0 +1,55 @@
+2026-06-14 | leninpro2004 | Agrega terreno_ids-master.zip
+2026-06-14 | Josué Barrera | Subir burnup_burndown corregido
+2026-06-14 | Josué Barrera | Delete burnup_burndown.xlsx
+2026-06-14 | avisave | videos demostrativos
+2026-06-14 | Alexander Hanke | Subida de árbol de navegación
+2026-06-14 | Alexander Hanke | Delete grupo_16_incremento_1/Mapa Navegación.drawio
+2026-06-14 | Alexander Hanke | Delete grupo_16_incremento_1/Mapa Navegación.png
+2026-06-14 | Alexander Hanke | Rename Mapa Navegación to Mapa Navegación.drawio
+2026-06-14 | Alexander Hanke | Rename Mapa Navegación.drawio.png to Mapa Navegación.png
+2026-06-14 | avisave | mapa de navegación
+2026-06-14 | Alexander Hanke | Delete grupo_16_incremento_1/Mapa Navegación.drawio.png
+2026-06-14 | Alexander Hanke | Subida de diagrama de componentes unificado corregido
+2026-06-14 | Alexander Hanke | Subida de modelo físico unificado
+2026-06-14 | Alexander Hanke | Delete grupo_16_incremento_1/diagrama de componentes unificado.drawio.png
+2026-06-14 | Alexander Hanke | Delete grupo_16_incremento_1/diagrama de componentes unificado
+2026-06-14 | Alexander Hanke | Subida de diagrama de despliegue unificado
+2026-06-14 | Alexander Hanke | Subida de archivo burn up y burn down
+2026-06-14 | avisave | Move videos to grupo_16_incremento_1/ and ignore original videos folder
+2026-06-14 | avisave | Add Incremento 1 videos
+2026-06-14 | avisave | subida correo aceptación
+2026-06-14 | avisave | subida archivo cv lenin reyes
+2026-06-14 | SebaEsc03 | Subida de Casos de Uso
+2026-06-14 | SebaEsc03 | Subida de Dimension Tecnica
+2026-06-14 | Sebastian | curriculum vitae de Sebastian
+2026-06-14 | leninpro2004 | Add Docker Compose, Dockerfiles, init/seed SQL, form validation
+2026-06-14 | Alexander Hanke | Commit de diagrama de componentes
+2026-06-14 | leninpro2004 | Initial commit: IDS app with control (backend) and vista (frontend)
+2026-06-14 | Josué Barrera | Subir PPT documento 0 corregido
+2026-06-14 | Josué Barrera | Delete Grupo 16 - Documento 0.pptx
+2026-06-13 | Jbarrera04-debug | Subir documento 0 corrección
+2026-06-13 | Jbarrera04-debug | Delete Grupo 16 - Documento 0.docx
+2026-06-13 | pekorrat | Curriculum vitae Ignacio Munizaga
+2026-06-13 | pekorrat | Subida de archivos ESTANDAR ESA Y evaluación costo y beneficios
+2026-06-13 | Jbarrera04-debug | Subir documento 0
+2026-06-13 | Jbarrera04-debug | Subir presentación formato PPT
+2026-06-13 | Jbarrera04-debug | Delete Grupo 16 - Documento 0.pptx
+2026-06-13 | Jbarrera04-debug | Delete Grupo 16 - Documento 0.docx
+2026-06-13 | Alexander Hanke | Subida de archivo .bpmn del levantamiento de procesos
+2026-06-13 | Jbarrera04-debug | Rename Mapa Navegación.drawio.png to grupo_16_incremento_1/Mapa Navegación.drawio.png
+2026-06-13 | Jbarrera04-debug | Subir png mapa de navegación
+2026-06-13 | Jbarrera04-debug | Delete grupo_16_incremento_1/Mapa Navegación
+2026-06-13 | Jbarrera04-debug | Rename Mapa Navegación to grupo_16_incremento_1/Mapa Navegación
+2026-06-13 | Jbarrera04-debug | Subir mapa de navegación
+2026-06-13 | Jbarrera04-debug | Subir png de levantamiento de procesos inicial
+2026-06-13 | Alexander Hanke | Añadir documento 0
+2026-06-13 | Rgamer9600 | Subida de excel "Planificacion"
+2026-06-13 | Jbarrera04-debug | Subir presentación formato PPT documento 0
+2026-06-13 | Rgamer9600 | Add files via upload
+2026-06-13 | Jbarrera04-debug | Subir currículum Josué Barrera
+2026-06-13 | Rgamer9600 | Add files via upload
+2026-06-13 | Alexander Hanke | Rename grupo_16_documento_0/CV_AlexanderHanke.docx to grupo_16_documento_0/cv_integrantes/CV_AlexanderHanke.docx
+2026-06-13 | Alexander Hanke | Subida de cv Alexander Hanke
+2026-06-13 | Alexander Hanke | Rename Matriz de trazabilidad.png to grupo_16_documento_0/Matriz de trazabilidad.png
+2026-06-13 | Alexander Hanke | Add files via upload
+2026-06-13 | Alexander Hanke | Initial commit
