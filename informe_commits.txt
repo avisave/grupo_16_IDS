@@ -1,0 +1,67 @@
+005ad07 - elalextx : Merge branch 'main' of https://github.com/avisave/grupo_16_IDS
+c12533c - elalextx : Subir proyecto sin comprimir en el repositorio
+9fcdb14 - Josué Barrera : Subir archivo de diagramas de secuencia
+5b8dbfa - Alexander Hanke : Subir documento y presentación incremento 1 correciones
+b61de22 - Alexander Hanke : Delete grupo_16_incremento_1/Grupo 16 - Incremento 1.pptx
+86bf413 - Alexander Hanke : Delete grupo_16_incremento_1/Grupo 16 - Incremento 1.docx
+30f2208 - elalextx : Subir video presentación incremento 1
+9d666cd - Alexander Hanke : Delete grupo_16_incremento_1/video demostrativo.txt
+564cdd6 - elalextx : Subir video ddemostrativo y de instalación
+33f901b - Alexander Hanke : Delete grupo_16_documento_0/informe_commits.txt
+792cb12 - avisave : informe_commits.txt
+1d4fb68 - avisave : informe commits
+afdcefc - avisave : presentacion
+0ff1a9d - Alexander Hanke : Rename Grupo 16 - Incremento 1 FINAL.docx to Grupo 16 - Incremento 1.docx
+b0cf4dd - pekorrat : Incremento 1 informe
+c3ccc77 - Roberto Seguel : Subida archivo xlsx Backlog
+4d5d0e1 - leninpro2004 : Agrega terreno_ids-master.zip
+11c50e8 - Josué Barrera : Subir burnup_burndown corregido
+2a4017f - Josué Barrera : Delete burnup_burndown.xlsx
+add0d93 - avisave : videos demostrativos
+cb821ad - Alexander Hanke : Subida de árbol de navegación
+17d98e6 - Alexander Hanke : Delete grupo_16_incremento_1/Mapa Navegación.drawio
+21bb011 - Alexander Hanke : Delete grupo_16_incremento_1/Mapa Navegación.png
+4986a52 - Alexander Hanke : Rename Mapa Navegación to Mapa Navegación.drawio
+2802cba - Alexander Hanke : Rename Mapa Navegación.drawio.png to Mapa Navegación.png
+a51e512 - avisave : mapa de navegación
+ffdebbd - Alexander Hanke : Delete grupo_16_incremento_1/Mapa Navegación.drawio.png
+52a3c2f - Alexander Hanke : Subida de diagrama de componentes unificado corregido
+3b01054 - Alexander Hanke : Subida de modelo físico unificado
+15ffe77 - Alexander Hanke : Delete grupo_16_incremento_1/diagrama de componentes unificado.drawio.png
+9be8e9c - Alexander Hanke : Delete grupo_16_incremento_1/diagrama de componentes unificado
+b8bbd35 - Alexander Hanke : Subida de diagrama de despliegue unificado
+5466fcb - Alexander Hanke : Subida de archivo burn up y burn down
+789cd25 - avisave : subida correo aceptación
+6838cd4 - avisave : subida archivo cv lenin reyes
+a40cd16 - SebaEsc03 : Subida de Casos de Uso
+cb685cc - SebaEsc03 : Subida de Dimension Tecnica
+7017ac6 - Sebastian : curriculum vitae de Sebastian
+2d70f8e - Alexander Hanke : Commit de diagrama de componentes
+50ebf88 - Josué Barrera : Subir PPT documento 0 corregido
+f5ac765 - Josué Barrera : Delete Grupo 16 - Documento 0.pptx
+9c22038 - Jbarrera04-debug : Subir documento 0 corrección
+86edd18 - Jbarrera04-debug : Delete Grupo 16 - Documento 0.docx
+42ced4e - pekorrat : Curriculum vitae Ignacio Munizaga
+6722901 - pekorrat : Subida de archivos ESTANDAR ESA Y evaluación costo y beneficios
+1534141 - Jbarrera04-debug : Subir documento 0
+0577c88 - Jbarrera04-debug : Subir presentación formato PPT
+0c95793 - Jbarrera04-debug : Delete Grupo 16 - Documento 0.pptx
+7c0ce6f - Jbarrera04-debug : Delete Grupo 16 - Documento 0.docx
+a1ea38b - Alexander Hanke : Subida de archivo .bpmn del levantamiento de procesos
+1cac39e - Jbarrera04-debug : Rename Mapa Navegación.drawio.png to grupo_16_incremento_1/Mapa Navegación.drawio.png
+6b970da - Jbarrera04-debug : Subir png mapa de navegación
+d4d04de - Jbarrera04-debug : Delete grupo_16_incremento_1/Mapa Navegación
+3bc8df8 - Jbarrera04-debug : Rename Mapa Navegación to grupo_16_incremento_1/Mapa Navegación
+d11fe23 - Jbarrera04-debug : Subir mapa de navegación
+79a8332 - Jbarrera04-debug : Subir png de levantamiento de procesos inicial
+a0214a0 - Alexander Hanke : Añadir documento 0
+1b7f66d - Rgamer9600 : Subida de excel "Planificacion"
+bf7594f - Jbarrera04-debug : Subir presentación formato PPT documento 0
+4e3a87f - Rgamer9600 : Add files via upload
+d8dc932 - Jbarrera04-debug : Subir currículum Josué Barrera
+533f159 - Rgamer9600 : Add files via upload
+6b72304 - Alexander Hanke : Rename grupo_16_documento_0/CV_AlexanderHanke.docx to grupo_16_documento_0/cv_integrantes/CV_AlexanderHanke.docx
+220975a - Alexander Hanke : Subida de cv Alexander Hanke
+1e94945 - Alexander Hanke : Rename Matriz de trazabilidad.png to grupo_16_documento_0/Matriz de trazabilidad.png
+01ad832 - Alexander Hanke : Add files via upload
+57ddfcf - Alexander Hanke : Initial commit
